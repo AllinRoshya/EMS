@@ -1,0 +1,6 @@
+2025-02-03 09:27:49 DEBUG EmployeeManagement:23 - Employee Management started !
+2025-02-03 09:28:01 DEBUG EmployeeManagement:23 - Employee Management started !
+2025-02-03 09:28:03 WARN  EmployeeManagement:39 - Invalid choice.
+2025-02-03 09:28:03 DEBUG EmployeeManagement:23 - Employee Management started !
+2025-02-03 09:28:24 WARN  EmployeeManagement:38 - Invalid choice.
+2025-02-03 09:54:15 INFO  EmployeeManagement:34 - Exiting system...
